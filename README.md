@@ -1,7 +1,7 @@
 # me & myself
 
 - 🎓 I graduated from Informatics [Athens University of Economics and Business].
-- 🎓 I'm currently master student in Information Systems Development and Cybersecurity [Athens University of Economics and Business].
+- 🎓 I'm currently MSc student in Information Systems Development and Cybersecurity [Athens University of Economics and Business].
 - 👩‍💻 Java is my one and only.
 - 💜 My love are my violin 🎻 and my travels 🛪. 
 
