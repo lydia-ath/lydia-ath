@@ -2,8 +2,8 @@
 
 - 🎓 I graduated from Informatics [Athens University of Economics and Business].
 - 🎓 I'm currently master student in Information Systems Development and Cybersecurity [Athens University of Economics and Business].
-- <i class="material-icons">computer</i> Java is my one and only.
-- <i class="material-icons" style="font-size:48px;color:red;">favorite</i> My love are my violin and my travels. 
+- 👩‍💻 Java is my one and only.
+- 💜 My love are my violin 🎻 and my travels 🛪. 
 
 ## My Statistics
 
