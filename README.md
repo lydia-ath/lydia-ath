@@ -1,4 +1,4 @@
-# me ２２♐
+# me ２２
 
 - 🎓 I graduated from the department of Informatics [Athens University of Economics and Business].
 - 🎓 I'm currently MSc student in Information Systems Development and Cybersecurity [Athens University of Economics and Business].
