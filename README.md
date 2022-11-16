@@ -3,7 +3,7 @@
 - 🎓 I graduated from the department of Informatics [Athens University of Economics and Business].
 - 🎓 I'm currently MSc student in Information Systems Development and Cybersecurity [Athens University of Economics and Business].
 - 👩‍💻 I'm currently working as Security engineer (pentester) in SopraSteria BENELUX in Brussels.
-- 💜 My love are my violin 🎻 and my travels 🛪. 
+- 💜 violin 🎻 and travels 🛪. 
 
 ## My Statistics 📈
 
